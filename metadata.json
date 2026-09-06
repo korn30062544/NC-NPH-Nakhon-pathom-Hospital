@@ -1,0 +1,7 @@
+{
+  "name": "Nakhon Pathom Hospital - Risk Management System",
+  "description": "Hospital Risk Management & Laboratory Incident Tracking System for Nakhon Pathom Hospital",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
